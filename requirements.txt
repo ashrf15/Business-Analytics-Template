@@ -3,7 +3,7 @@ pandas
 numpy
 seaborn
 matplotlib
-plotly
 openpyxl
+plotly
 reportlab
 Pillow
