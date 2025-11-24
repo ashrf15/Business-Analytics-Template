@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-seaborn
-matplotlib
-openpyxl
-plotly
-reportlab
-Pillow
