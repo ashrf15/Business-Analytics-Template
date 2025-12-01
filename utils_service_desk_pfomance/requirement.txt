@@ -1,0 +1,6 @@
+reportlab
+pillow
+pandas
+plotly
+kaleido
+python-docx
