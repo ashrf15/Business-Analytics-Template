@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+reportlab
+pillow
+python-docx
+openpyxl
+statsmodels
+XlsxWriter
+kaleido
